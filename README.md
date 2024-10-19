@@ -1,5 +1,5 @@
 # EXPERIMENT 01: CREATION OF EMPLOYEE, WEATHER DATASET IN WEKA DATA MINING AND ANALYSIS TOOL AND PERFORM PROCESSING
-## DATE: 10.02.2024 
+
 ## AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing.
 ## PROCEDURE: 
